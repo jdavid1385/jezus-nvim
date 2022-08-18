@@ -1,0 +1,6 @@
+{
+  "codeLens.enable": true,
+  "solargraph.useBundler": false,
+  "diagnostic.displayByAle": true,
+  "solargraph.logLevel": "debug"
+}
