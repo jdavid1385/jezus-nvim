@@ -482,6 +482,7 @@ augroup END
 
 augroup MyQuickfixPreview
   au!
+  " To be mainly used witht Ferret(Ack) - via <LEADER> + s
   au FileType qf noremap <silent><buffer> p :call quickui#tools#preview_quickfix()<cr>
 augroup END
 
